@@ -1,4 +1,4 @@
-export const products3 = [
+[
   {
     "title": "UltraWide 34'' Monitor",
     "description": "Experience immersive multitasking with a stunning 3440x1440 resolution. \n\nPerfect for video editing, productivity, and gaming alike.",

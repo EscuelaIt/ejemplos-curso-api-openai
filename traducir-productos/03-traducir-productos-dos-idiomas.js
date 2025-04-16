@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import { translateProduct } from './translation-service.js';
+import { translateProduct } from './translation-service-2-idiomas.js';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
