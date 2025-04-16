@@ -1,0 +1,102 @@
+[
+  {
+    "title": "UltraWide 34'' Monitor",
+    "description": "Experience immersive multitasking with a stunning 3440x1440 resolution. \n\nPerfect for video editing, productivity, and gaming alike.",
+    "image": "https://via.placeholder.com/300x200?text=Monitor"
+  },
+  {
+    "title": "Mechanical Gaming Keyboard",
+    "description": "Built with tactile switches for precision and speed. \n\nRGB lighting and programmable keys bring full customization to your fingertips.",
+    "image": "https://via.placeholder.com/300x200?text=Keyboard"
+  },
+  {
+    "title": "Wireless Ergonomic Mouse",
+    "description": "Designed to reduce wrist strain and provide long-lasting comfort. \n\nFeatures multi-device connectivity and adjustable DPI settings.",
+    "image": "https://via.placeholder.com/300x200?text=Mouse"
+  },
+  {
+    "title": "Intel Core i9 Processor",
+    "description": "Unleash powerful performance with 24 cores for gaming and content creation. \n\nSupports DDR5 memory and PCIe 5.0 for next-gen speed.",
+    "image": "https://via.placeholder.com/300x200?text=CPU"
+  },
+  {
+    "title": "1TB NVMe SSD",
+    "description": "Enjoy ultra-fast boot times and file transfers. \n\nPerfect for gamers, developers, and anyone needing high-performance storage.",
+    "image": "https://via.placeholder.com/300x200?text=SSD"
+  },
+  {
+    "title": "USB-C Docking Station",
+    "description": "Turn your laptop into a full workstation with HDMI, Ethernet, USB 3.0, and SD card slots. \n\nIdeal for remote work setups.",
+    "image": "https://via.placeholder.com/300x200?text=Dock"
+  },
+  {
+    "title": "4K UHD Webcam",
+    "description": "Crystal-clear video with auto-focus and noise-canceling microphones. \n\nPerfect for online meetings, streaming, and video recording.",
+    "image": "https://via.placeholder.com/300x200?text=Webcam"
+  },
+  {
+    "title": "27'' IPS Monitor",
+    "description": "Vivid colors and wide viewing angles make it ideal for graphic design. \n\nFlicker-free technology reduces eye strain for long sessions.",
+    "image": "https://via.placeholder.com/300x200?text=Monitor"
+  },
+  {
+    "title": "Gaming Headset with Surround Sound",
+    "description": "Hear every detail with 7.1 virtual surround sound and a noise-canceling mic. \n\nMemory foam ear cups ensure comfort during long gaming sessions.",
+    "image": "https://via.placeholder.com/300x200?text=Headset"
+  },
+  {
+    "title": "Mini Desktop PC",
+    "description": "Compact yet powerful, with upgradable RAM and SSD options. \n\nIdeal for home office or media center setups.",
+    "image": "https://via.placeholder.com/300x200?text=Mini+PC"
+  },
+  {
+    "title": "Adjustable Laptop Stand",
+    "description": "Ergonomic design improves posture and reduces neck strain. \n\nAluminum build provides stability and heat dissipation.",
+    "image": "https://via.placeholder.com/300x200?text=Laptop+Stand"
+  },
+  {
+    "title": "All-in-One Printer",
+    "description": "Print, scan, and copy from one sleek device. \n\nWi-Fi connectivity and mobile printing support included.",
+    "image": "https://via.placeholder.com/300x200?text=Printer"
+  },
+  {
+    "title": "108-Key Low-Profile Keyboard",
+    "description": "Full-size layout with whisper-quiet keys. \n\nIdeal for office work and long typing sessions.",
+    "image": "https://via.placeholder.com/300x200?text=Keyboard"
+  },
+  {
+    "title": "Bluetooth Trackpad",
+    "description": "Precise multi-touch control for Mac and Windows. \n\nRechargeable and portable for productivity on the go.",
+    "image": "https://via.placeholder.com/300x200?text=Trackpad"
+  },
+  {
+    "title": "External GPU Enclosure",
+    "description": "Boost your laptop's graphics power with desktop-class GPU support. \n\nThunderbolt 3 ensures high-speed data transfer.",
+    "image": "https://via.placeholder.com/300x200?text=eGPU"
+  },
+  {
+    "title": "500W Modular Power Supply",
+    "description": "Efficient and silent power delivery for your PC build. \n\nModular cables keep your case clean and airflow optimized.",
+    "image": "https://via.placeholder.com/300x200?text=PSU"
+  },
+  {
+    "title": "USB-C Portable Monitor",
+    "description": "Add a second screen to your laptop or phone anywhere. \n\nLightweight and powered by a single cable.",
+    "image": "https://via.placeholder.com/300x200?text=Portable+Monitor"
+  },
+  {
+    "title": "Liquid CPU Cooler",
+    "description": "Keep your CPU temperatures low with a silent, efficient AIO cooler. \n\nCustomizable RGB and tool-free installation.",
+    "image": "https://via.placeholder.com/300x200?text=Cooler"
+  },
+  {
+    "title": "PCIe Wi-Fi 6 Card",
+    "description": "Upgrade your desktop with ultra-fast wireless and Bluetooth 5.2. \n\nSupports MU-MIMO and OFDMA for optimized connectivity.",
+    "image": "https://via.placeholder.com/300x200?text=WiFi+Card"
+  },
+  {
+    "title": "RGB PC Case with Glass Panel",
+    "description": "Show off your components with tempered glass and customizable RGB lighting. \n\nSupports full ATX builds and liquid cooling setups.",
+    "image": "https://via.placeholder.com/300x200?text=PC+Case"
+  }
+]
