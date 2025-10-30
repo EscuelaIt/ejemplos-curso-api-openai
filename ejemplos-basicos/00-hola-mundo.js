@@ -6,7 +6,7 @@ const client = new OpenAI({
 
 try {
     const response = await client.responses.create({
-        model: "pt-4.1-2025-04-14",
+        model: "gpt-5-mini",
         input: "Dime cuál es la capital de Perú y desde cuándo es así"
     });
     console.log(response.output_text);
