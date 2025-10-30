@@ -9,7 +9,7 @@ const client = new OpenAI({
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const imagePath = path.join(__dirname, "images", "unsplash2.jpg");
+const imagePath = path.join(__dirname, "images", "unsplash.jpg");
 
 const base64Image = fs.readFileSync(imagePath, "base64");
 

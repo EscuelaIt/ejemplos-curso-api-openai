@@ -11,7 +11,7 @@ const response = await client.responses.create({
 });
 
 console.log(response.output_text);
-
+console.log("\n--------------------------------------\n");
 const response2 = await client.responses.create({
   model: "gpt-4o-mini",
   input: "Y el segundo?",
